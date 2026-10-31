@@ -1,3 +1,3 @@
 const text = document.createElement("p");
-text.textContent = "Hello";
+text.textContent = "loading...";
 document.body.appendChild(text);
